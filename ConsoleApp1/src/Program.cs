@@ -143,11 +143,43 @@
 
 #endregion
 
-#region Mediator
-using ConsoleApp1.src.DesignPatterns.Behavioral.Mediator.MyTest;
+#region Memento
+//using ConsoleApp1.src.DesignPatterns.Behavioral.Memento.MyTest;
 
-var postDialogBox = new PostDialogBox();
-postDialogBox.SimulateUserInteraction();
+//var editor = new Editor();
+//var history = new History(editor);
+
+//editor.Title = "First Title";
+//editor.Content = "This is the first content.";
+//history.Backup();
+
+//Console.WriteLine($"{editor.Title} : {editor.Content}");
+//editor.Title = "Second Title";
+//editor.Content = "This is the second content.";
+//Console.WriteLine($"{editor.Title} : {editor.Content}");
+//history.Backup();
+
+//history.Undo();
+//Console.WriteLine($"Undo");
+//Console.WriteLine($"{editor.Title} : {editor.Content}");
+//editor.Title = "New Title";
+//editor.Content = "New content.";
+//Console.WriteLine($"{editor.Title} : {editor.Content}");
+
+//history.Backup();
+//editor.Title = "Start Wars";
+//editor.Content = "Once upon a time in a galaxy far far away.";
+//Console.WriteLine($"{editor.Title} : {editor.Content}");
+//history.Backup();
+
+//history.ShowHistory();
+#endregion
+
+#region Mediator
+//using ConsoleApp1.src.DesignPatterns.Behavioral.Mediator.MyTest;
+
+//var postDialogBox = new PostDialogBox();
+//postDialogBox.SimulateUserInteraction();
 #endregion
 
 #region Observer

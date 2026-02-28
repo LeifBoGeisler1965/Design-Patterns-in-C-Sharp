@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\memento\\mytest\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\memento\\mytest\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\memento\\mytest\\editorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\memento\\mytest\\editorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\postdialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\postdialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\memento\\mytest\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\memento\\mytest\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventHandler.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T12:57:08.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIControl.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T12:31:21.119Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -72,39 +42,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Button.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T12:40:51.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PostDialogBox.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwDYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T12:11:10.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "History.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\History.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\History.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\History.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\History.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:05:45.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorState.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\EditorState.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\EditorState.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\EditorState.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\EditorState.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:05:41.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\Editor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\Editor.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\Editor.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Memento\\MyTest\\Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:05:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\src\\Program.cs",
               "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\src\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAJUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAwwJ8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T20:52:59.773Z",
               "EditorCaption": ""
