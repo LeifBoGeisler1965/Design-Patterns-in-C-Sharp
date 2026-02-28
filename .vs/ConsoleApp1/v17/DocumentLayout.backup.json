@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\iterator\\mytest\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\iterator\\mytest\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\iterator\\mytest\\listiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\iterator\\mytest\\listiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\uiframework\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\iterator\\goodexample\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\iterator\\goodexample\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visual studio\\code\\visual studio 2022\\master design patterns\\consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\postdialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CF5E55-C53C-4837-87A9-B37322E4052B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\designpatterns\\behavioral\\mediator\\mytest\\postdialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,9 +29,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 248,
+          "DockedWidth": 231,
           "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\EventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:57:08.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIControl.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\UIControl.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:31:21.119Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -42,60 +72,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListIterator.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ListIterator.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ListIterator.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ListIterator.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ListIterator.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Button.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\UIFramework\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T07:20:16.225Z",
+              "WhenOpened": "2026-02-28T12:40:51.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostDialogBox.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
+              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Mediator\\MyTest\\PostDialogBox.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:11:10.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShoppingList.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ShoppingList.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ShoppingList.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ShoppingList.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\MyTest\\ShoppingList.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T07:20:12.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\src\\Program.cs",
               "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\src\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAJUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T20:52:59.773Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 239,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingList.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\GoodExample\\ShoppingList.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\GoodExample\\ShoppingList.cs",
-              "ToolTip": "E:\\Visual Studio\\Code\\Visual Studio 2022\\Master Design Patterns\\ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\GoodExample\\ShoppingList.cs",
-              "RelativeToolTip": "ConsoleApp1\\src\\DesignPatterns\\Behavioral\\Iterator\\GoodExample\\ShoppingList.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T07:20:19.264Z",
               "EditorCaption": ""
             }
           ]

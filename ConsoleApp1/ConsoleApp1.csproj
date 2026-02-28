@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Folder Include="src\DesignPatterns\Behavioral\Command\RemoteControl\MyTest\" />
+    <Folder Include="src\DesignPatterns\Creational\AbstractFactory\MyTest\" />
+    <Folder Include="src\DesignPatterns\Creational\Builder\MyTest\" />
   </ItemGroup>
 
 </Project>
